@@ -1,0 +1,12 @@
+img {
+  width: 50%;
+  height: auto;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: #880404;
+}
+p {
+  font-size: 30px;
+  color: #128f0b;
+  line-height: 1.5;
+}
